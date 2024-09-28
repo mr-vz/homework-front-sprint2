@@ -1,7 +1,15 @@
 .burgerMenuIcon {
+
 }
 
 .header {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 17px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-bottom: 14px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
 }
 
 .header h1 {
