@@ -10,6 +10,8 @@
 
 .hwTitle {
     margin: 0 auto;
+    padding-top: 71px;
+    padding-bottom: 10px;
     width: 600px;
     font-weight: bold;
     border-bottom: 2px solid #e8e8e8;
