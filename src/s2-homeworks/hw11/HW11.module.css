@@ -4,10 +4,12 @@
 }
 
 .wrapper {
-    /*display: flex;*/
-    /*justify-content: space-around;*/
+    display: flex;
+    align-items: center;
 }
 
 .number {
     font-weight: bold;
+    font-size: 20px;
+    width: 20px;
 }
