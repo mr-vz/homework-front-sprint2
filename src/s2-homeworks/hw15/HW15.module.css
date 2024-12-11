@@ -16,12 +16,28 @@
 
 .row {
     display: flex;
+    border-top: 1px solid #E5E5E5;
+    padding-top: 12px;
+    padding-bottom: 12px;
 }
 
 .rowHeader {
     display: flex;
+    background-color: #E5E5E5;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-top: 15px;
 }
 
 .loading {
+    position: fixed;
+    top: 70%;
+    text-align: center;
+    width: 100%;
+    background-color: whitesmoke;
+}
 
+.rowHeader img {
+    width: 10px;
+    height: 10px;
 }
